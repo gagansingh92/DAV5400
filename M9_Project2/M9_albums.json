@@ -1,22 +1,20 @@
-{
-  "albums": [
-    {
-      "album_title": "Rumours",
-      "artist": "Fleetwood Mac",
-      "songs": ["Second Hand News", "Dreams", "Don't Stop", "Go Your Own Way", "The Chain"],
-      "year": 1977
-    },
-    {
-      "album_title": "Thriller",
-      "artist": "Michael Jackson",
-      "songs": ["Wanna Be Startin' Somethin'", "Thriller", "Beat It", "Billie Jean", "Human Nature"],
-      "year": 1982
-    },
-    {
-      "album_title": "Back to Black",
-      "artist": "Amy Winehouse",
-      "songs": ["Rehab", "You Know I'm No Good", "Me & Mr. Jones", "Back to Black", "Tears Dry on Their Own"],
-      "year": 2006
-    }
-  ]
-}
+[
+  {
+    "Album Title": "Rumours",
+    "Artist": "Fleetwood Mac",
+    "Songs/Tracks": "Second Hand News, Dreams, Don't Stop, Go Your Own Way, The Chain",
+    "Year": 1977
+  },
+  {
+    "Album Title": "Thriller",
+    "Artist": "Michael Jackson",
+    "Songs/Tracks": "Wanna Be Startin' Somethin', Thriller, Beat It, Billie Jean, Human Nature",
+    "Year": 1982
+  },
+  {
+    "Album Title": "Back to Black",
+    "Artist": "Amy Winehouse",
+    "Songs/Tracks": "Rehab, You Know I'm No Good, Me & Mr. Jones, Back to Black, Tears Dry on Their Own",
+    "Year": 2006
+  }
+]
